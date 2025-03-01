@@ -11,5 +11,6 @@ THAT ADAPTS TO DIFFERENT SCREEN
 SIZES USING HTML, CSS, AND
 JAVASCRIPT.
 OUTPUT:
-<!-- Uploading "app version.png"... -->
-<!-- Uploading "WEB version.png"... -->
+<img width="361" alt="Image" src="https://github.com/user-attachments/assets/65670019-1a81-4f5b-ae08-cdc44d3f1ef3" />
+
+<img width="1468" alt="Image" src="https://github.com/user-attachments/assets/21172673-468b-4651-902a-078a1f078179" />
