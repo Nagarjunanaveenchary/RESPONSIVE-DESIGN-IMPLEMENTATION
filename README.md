@@ -11,3 +11,5 @@ THAT ADAPTS TO DIFFERENT SCREEN
 SIZES USING HTML, CSS, AND
 JAVASCRIPT.
 OUTPUT:
+<!-- Uploading "app version.png"... -->
+<!-- Uploading "WEB version.png"... -->
